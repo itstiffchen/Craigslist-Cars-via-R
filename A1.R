@@ -5,7 +5,6 @@
 
 # load the data
 print(load(url("http://eeyore.ucdavis.edu/stat141/Data/vehicles.rda")))
-vehicles = load("/Users/tiffanychen/Desktop/STA 141/vehicles.rda")
 
 # q1
 # there are 34677 rows and 26 columns
@@ -76,7 +75,6 @@ plot(man$type, man$fuel, main = "Vehicle Type vs. Fuel Type -- Manual", xlab= "V
 
 other = subset(vposts,transmission == "other")
 plot(other$type, other$fuel, main="Vehicle Type vs. Fuel Type -- Other", xlab = "Vehicle Type", ylab = "Fuel Type")
-
 
 #q6
 # 7 different cities
