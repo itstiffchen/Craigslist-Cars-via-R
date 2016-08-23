@@ -5,8 +5,8 @@ STA 141 Assignment 1
 broken up into Part 1 & Part 2
 
 Part 1 
-How many observations are there in the data set?
-What are the names of the variables? and what is the class of each variable?
+1. How many observations are there in the data set?
+2. What are the names of the variables? and what is the class of each variable?
 What is the average price of all the vehicles? the median price? and the deciles? Displays these on a plot of the distribution of vehicle prices.
 What are the different categories of vehicles, i.e. the type variable/column? What is the proportion for each category ?
 Display the relationship between fuel type and vehicle type. Does this depend on transmission type?
