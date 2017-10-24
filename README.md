@@ -1,4 +1,4 @@
-# craigslistcars
+# craigslist cars using R
 exploring Craigslist car posts
 
 Used R.  
